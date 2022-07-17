@@ -1,6 +1,4 @@
-## Hi! I'm Damian - Front End Developer
-
-### About Me
+### About
 
 I'm a Frontend Developer with Fullstack skills having 5 years in IT industry.
 
