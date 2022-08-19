@@ -1,14 +1,10 @@
 ### About
 
-I'm a Frontend Developer with Fullstack skills having 5 years in IT industry.
+I'm a Fullstack Developer (MongoDB | Express | React | Node) focused on Frontend.
 
-My first steps were working as a Web Designer in 2017 (HTML, CSS & Bootstrap), then I started to learn JavaScript and the MERN stack in 2021.
+My first steps were working as Web Designer in 2017 (HTML, SASS & Bootstrap), then I learned JavaScript and the MERN stack in 2021. Besides, I have a Graphic Designer and Motion Graphics background from my work experiences before 2017.
 
-Currently I'm working remotely, mainly using React, MongoDB and Node.
-
-Besides, I have a Graphic Designer and Motion Graphics background from my work experiences before 2017.
-
-I love to learn every day, but keeping a focus. Nowadays, I'm starting with TypeScript and improving my English level from Intermediate to Fluent.
+I'm currently working remotely, learning TypeScript and improving my English level from Intermediate to Fluent.
 
 ### Tech Stack
 
