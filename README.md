@@ -1,6 +1,6 @@
 ### About
 
-My first steps were working as Web Designer in 2017 (HTML, SASS & Bootstrap), then I learned JavaScript and the MERN stack in 2021. Besides, I have a Graphic Designer and Motion Graphics background from my work experiences before 2017.
+As a developer, my first steps were working as Web Designer in 2017 (HTML, SASS & Bootstrap), then I learned JavaScript and the MERN stack in 2021. Besides, I have a  Motion design background from other work experiences.
 
 I'm currently working remotely, learning new skills and improving my English level from Intermediate to Fluent.
 
