@@ -7,3 +7,5 @@ I started my academic career in 2009 studying Graphic design and Web development
 I'm currently working remotely for an Uruguayan agency as Full-Stack Developer, learning new skills every day and improving my English level.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lopezrunco&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=lopezrunco&theme=dracula&show_icons=true)
