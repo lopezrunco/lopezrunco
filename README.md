@@ -1,5 +1,7 @@
 ### About
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lopezrunco)](https://github.com/anuraghazra/github-readme-stats)
+
 As a developer, my first steps were working as Web Designer in 2017 (HTML, SASS & Bootstrap), then I learned JavaScript and the MERN stack in 2021. Besides, I have a  Motion design background from other work experiences.
 
 I'm currently working remotely, learning new skills and improving my English level from Intermediate to Fluent.
