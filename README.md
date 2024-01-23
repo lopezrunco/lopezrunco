@@ -8,13 +8,14 @@ I started my career in multimedia in 2010. Over the next few years, I shifted my
 
 Here are a few technologies I've been working with recently:
 
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-[docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white
-[linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React.js](https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Sass](https://img.shields.io/badge/-Sass-pink?logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/-Linux-orange?logo=linux&logoColor=white)](https://www.linux.org/)
+
+
