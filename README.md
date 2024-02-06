@@ -1,10 +1,8 @@
 ### About
 
-Developer from Uruguay currently based in India.
+I'm a Developer from Uruguay currently based in India with more than 6 years of experience in the development industry.
 
-+6 years of experience in the development industry.
-
-I started my career in multimedia in 2010. Over the next few years, I shifted my focus to software development, collaborating with many clients, studios, and agencies. Currently, I'm working remotely for an agency as a Full-Stack Developer, actively enhancing my proficiency in English.
+During my career, I've had the opportunity to work with many companies and clients, where I've honed my skills and made significant contributions to various projects. Currently, I'm working remotely for an agency as a Full-Stack Developer, actively enhancing my proficiency in English.
 
 Here are a few technologies I've been working with recently:
 
