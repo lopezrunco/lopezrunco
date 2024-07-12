@@ -10,13 +10,16 @@ Here are a few technologies I've been working with recently:
 [![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PHP](https://img.shields.io/badge/-PHP-purple?logo=php&logoColor=white)](https://www.php.net/)
+[![SQL](https://img.shields.io/badge/-SQL-blue?logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Sass](https://img.shields.io/badge/-Sass-pink?logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/-Linux-orange?logo=linux&logoColor=white)](https://www.linux.org/)
 
 🔭 I’m currently working on: [Campo Eventos Streaming services](https://github.com/lopezrunco/campo-eventos-frontend)
 
-🌱 I’m currently learning: **TypeScript & CS50 Python and JavaScript Programming.**
+🌱 I’m currently learning: **TypeScript**
 
 💬 Ask me about: **Javascript, React and Node.**
 
