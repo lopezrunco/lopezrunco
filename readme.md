@@ -1,4 +1,4 @@
-### Developer from Uruguay currently based in India.
+### Back-End developer from Uruguay currently based in New Delhi.
 
 Experienced in delivering high-quality, scalable web solutions. I've collaborated with various companies and clients, continuously refining skills and making significant contributions to numerous projects.
 
