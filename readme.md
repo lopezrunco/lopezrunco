@@ -1,6 +1,6 @@
-### Damian López Runco.
+### Damian Lopez Runco.
 
-Deeveloper experienced in delivering high-quality, scalable web solutions. I've collaborated with various companies and clients, continuously refining skills and making significant contributions to numerous projects.
+Developer from Uruguay experienced in delivering high-quality, scalable web solutions. I've collaborated with various companies and clients, continuously refining skills and making significant contributions to numerous projects.
 
 Here are a few technologies I've been working with recently:
 
