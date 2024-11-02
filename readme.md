@@ -16,10 +16,4 @@ Here are a few technologies I've been working with recently:
 [![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/-Linux-orange?logo=linux&logoColor=white)](https://www.linux.org/)
 
-🔭 I’m currently working on: [Campo Eventos Streaming services](https://github.com/lopezrunco/campo-eventos-frontend)
-
-🌱 I’m currently learning: **TypeScript**
-
-💬 Ask me about: **Javascript, React and Node.**
-
-📫 How to reach me: **lopezrunco@gmail.com**
+📫 Contact me at: **lopezrunco@gmail.com**
